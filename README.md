@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This reminds me of the olden days when we had a dot-profile on Unix shells.
 <!--
 **dbrunton/dbrunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
