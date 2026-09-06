@@ -1,4 +1,4 @@
-## Hi there 👋
+## There's very little to see here
 
 This reminds me of the olden days when we had a dot-profile on Unix shells.
 <!--
